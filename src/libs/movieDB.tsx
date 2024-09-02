@@ -1,3 +1,5 @@
+import { Movie } from "./types";
+
 export const movieDB = [
   {
     id: 1,
